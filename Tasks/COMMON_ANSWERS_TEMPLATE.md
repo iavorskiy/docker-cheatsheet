@@ -22,7 +22,7 @@ docker run alpine cat /etc/passwd | wc -l
 
 ### 5. busybox
 ```
-docker run busybox du -sh /
+docker run busybox du -sh / 2>/dev/null
 
 ```
 
