@@ -1,8 +1,8 @@
 Tasks
 ===
-### 1. sha256 sum b643c0b5f0f35c33f28e886f7ac9e359ff045b3ae0f51bb62448a2265b186336 
+### 1. sha256 sum 
 ```
-sha256:
+sha256: b643c0b5f0f35c33f28e886f7ac9e359ff045b3ae0f51bb62448a2265b186336 
 ```
 
 ### 2. ubuntu
