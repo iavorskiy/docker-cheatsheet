@@ -34,6 +34,11 @@ sha256:
 
 ### 7. apache
 ```
+root         1  0.0  0.4   6088  4552 pts/0    Ss+  13:41   0:00 httpd -DFOREGROUND
+daemon       7  0.0  0.3 752004  3492 pts/0    Sl+  13:41   0:00 httpd -DFOREGROUND
+daemon       8  0.0  0.3 752004  3488 pts/0    Sl+  13:41   0:00 httpd -DFOREGROUND
+daemon       9  0.0  0.3 752004  3488 pts/0    Sl+  13:41   0:00 httpd -DFOREGROUND
+root       417  0.0  0.0   3084   828 pts/1    S+   13:44   0:00 grep httpd
 
 ```
 
